@@ -1,0 +1,23 @@
+{
+  "name": "belajar_git_dan_nodejs",
+  "version": "1.0.0",
+  "description": "ini adalah coba coba belajar node dan node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx lite-server index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ergonrizky26/git-test-2.git"
+  },
+  "author": "Ergon Rizky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ergonrizky26/git-test-2/issues"
+  },
+  "homepage": "https://github.com/ergonrizky26/git-test-2#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
